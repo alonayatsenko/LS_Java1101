@@ -8,7 +8,7 @@ public class FIO2 {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите Ваше ФИО ");
         String FIO = in.nextLine();
-        String [] arrFIO = FIO.split(regex:" ");
+        String [] arrFIO = FIO.split(" ");
         FIO=arrFIO[1] + " "+ arrFIO[2] + " " +arrFIO [0];
         System.out.println(FIO);
 
