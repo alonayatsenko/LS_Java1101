@@ -10,8 +10,8 @@ public class Math1 {
         double rad;
 
             rad = Math.toRadians(a);
-            System.out.println("sin= "+ sin(rad));
-            System.out.println("cos= "+ cos(rad));
+            System.out.println("sin 30 = "+ sin(rad));
+            System.out.println("cos 30 = "+ cos(rad));
 
         }
     }
