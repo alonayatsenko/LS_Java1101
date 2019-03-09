@@ -1,4 +1,4 @@
-package com.yatsenko.java1101.Homework1.Classwork.oop.marvel.another_universe.joanne_K;
+package com.yatsenko.java1101.Homework1.Classwork.oop.joanne_K;
 
 public class TestSpirit {
     public static void main (String []args){
